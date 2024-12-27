@@ -18,7 +18,7 @@ function App() {
       <button
         onClick={addValue}
       >ADD Value </button>
-      <button onClick={decreaseValue} >decrease value</button>
+      <button onClick={decreaseValue} >Decrease value</button>
     </>
 
   )
