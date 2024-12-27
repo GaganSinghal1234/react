@@ -30,11 +30,11 @@ function App() {
       <h1 className="flex flex-wrap justify-center gap-4 m-4">
         <Card />
         <h1>II</h1>
-        <Card />
+        <Card username="oom"/>
         <h1>II</h1>
-        <Card />
+        <Card username="logo"/>
         <h1>II</h1>
-        <Card />
+        <Card blo="bloin"/>
       </h1>
     </>
   )
